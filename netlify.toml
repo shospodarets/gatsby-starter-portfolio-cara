@@ -1,0 +1,3 @@
+[build]
+  command = "npm run prod"
+  functions = "lambda" #  netlify-lambda reads this

@@ -67,3 +67,6 @@ public
 .idea
 .vscode
 .DS_Store
+
+# Netlify build lambda
+lambda
